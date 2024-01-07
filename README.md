@@ -7,6 +7,8 @@ Program generuje listę 100 zwierząt, należących 15 gatunków z różnych rod
 
 Spis komend do użycia w stworzonym przeze mnie programie i ich opis:
 
+(oczywiście wszystkie i tak zostaną wyświetlone po wpisaniu zapropoowanej przez terminal komendy "help")
+
 
 ~ quit - wyjście z programu
 
