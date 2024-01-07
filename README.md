@@ -2,7 +2,7 @@
 
 Zadanie zostało wykonane w języku programowania Python ze względu na zerwanie przyjaźni z Javą na rzecz tego zadania.
 
-Program generuje listę 100 zwierząt, należących 15 gatunków z różnych rodzin/gromad. Program jak jest to wymagane wyświetla tabelę.
+Program generuje listę 100 zwierząt, należących 15 gatunków z różnych rodzin/gromad. Program jak jest to wymagane wyświetla wynik w postaci tabeli.
 
 
 Spis komend do użycia w stworzonym przeze mnie programie i ich opis:
