@@ -1,0 +1,4 @@
+mammal:lion,zebra,cat,giraffe,coala,elephant
+reptile:gecko,iguana,agama,cameleon
+birds:sparrow,parrot,penguin
+snakes:anaconda,boa
